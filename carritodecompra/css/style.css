@@ -1,0 +1,96 @@
+img{
+  width: 80px;
+  height: 40px;
+}
+div
+{
+
+ margin-left: 100px;
+text-align: center;
+}
+
+#product1
+{
+  position:absolute;
+  top:60px;
+  left:12px;
+  width:200px;
+  height:200px;
+}
+#product2
+{
+  position:absolute;
+  top:60px;
+  left:246px;
+  width:200px;
+  height:200px;
+}
+#product3{
+  position:absolute;
+  top:60px;
+  left:480px;
+  width:200px;
+  height:200px;
+}
+#product4
+{
+  position:absolute;
+  top:293px;
+  left:12px;
+  width:200px;
+  height:200px;
+}
+#product5
+{
+  position:absolute;
+  top:293px;
+  left:246px;
+  width:200px;
+  height:200px;
+}
+#product6
+{
+  position:absolute;
+  top:293px;
+  left:480px;
+  width:200px;
+  height:200px;
+}
+#product7
+{
+  position:absolute;
+  top:522px;
+  left:12px;
+  width:221px;
+  height:200px;
+}
+#product8
+{
+  position:absolute;
+  top:522px;
+  left:246px;
+  width:221px;
+  height:200px;
+}
+#product9
+{
+  position:absolute;
+  top:522px;
+  left:480px;
+  width:221px;
+  height:200px;
+}
+table, tr, td
+{
+  border: 2px solid black;
+}
+.carTotal
+{
+ margin-left: -390px;
+}
+#txtTotal, #txtIva, #txtSub
+{
+margin: 10px;
+margin-right: 20px;
+border:white;
+}
